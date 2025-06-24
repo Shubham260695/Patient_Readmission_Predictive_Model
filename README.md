@@ -43,12 +43,12 @@ To build a machine learning model that predicts **patient readmission** using hi
 ---
 
 ## Model Building
+The following machine learning algorithms were used for classification:
 
-- Used **Logistic Regression** for initial modeling
-- Train-Test Split (80-20)
-- Evaluated using:
-  - Accuracy
-  - Confusion Matrix
-  - Classification Report (Precision, Recall, F1-score)
+Logistic Regression
+
+Random Forest Classifier
+
+XGBoost Classifier
 
 ---
