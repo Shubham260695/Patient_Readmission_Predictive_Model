@@ -52,9 +52,12 @@ Random Forest Classifier
 XGBoost Classifier
 
 ---
+
 ## Result 
 Random forest performed the best with an accuracy 80 %.This project demonstrates practical ML application in the healthcare domain to help reduce operational costs and improve patient care.
 
+---
+
 ## Future Improvements
--Use this model to find patients who might come back to the hospital soon, so doctors can give them extra care early.Also, help patients better understand their medicines and care after leaving the hospital to avoid coming back.
+Use this model to find patients who might come back to the hospital soon, so doctors can give them extra care early.Also, help patients better understand their medicines and care after leaving the hospital to avoid coming back.
 
